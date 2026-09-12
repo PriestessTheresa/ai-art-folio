@@ -1,0 +1,30 @@
+{
+  "repository": "ai-art-folio",
+  "account": "PriestessTheresa",
+  "visibility": "public",
+  "recommended_release_tag": "v0.1.0",
+  "files": [
+    ".gitignore",
+    "LICENSE",
+    "README.md",
+    "THIRD_PARTY_NOTICES.md",
+    "VERSION",
+    "scripts/check_publishable.py",
+    "scripts/package_delivery.py",
+    "scripts/validate_artwork.py",
+    "skills/svg-art-folio/SKILL.md",
+    "skills/svg-art-folio/agents/openai.yaml",
+    "skills/svg-art-folio/references/acceptance.md",
+    "skills/svg-art-folio/references/drawing-process.md",
+    "skills/svg-art-folio/references/publishing.md",
+    "skills/svg-art-folio/references/visual-and-copy.md",
+    "skills/svg-art-folio/scripts/check_publishable.py",
+    "skills/svg-art-folio/scripts/package_delivery.py",
+    "skills/svg-art-folio/scripts/validate_artwork.py",
+    "examples/shu/index.html"
+  ],
+  "release_assets": [
+    "Shu.zip",
+    "svg-art-folio.zip"
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: SVG Art Folio
+  short_description: Build an SVG drawing-process folio from one reference image
+  default_prompt: Use $svg-art-folio to turn the attached reference image into a polished self-contained SVG drawing folio and deliver an offline ZIP.
